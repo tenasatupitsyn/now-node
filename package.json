@@ -1,0 +1,13 @@
+{
+  "name": "now-node",
+  "version": "0.0.1",
+  "main": "core/index.js",
+  "scripts": {
+    "start": "node core/index.js"
+  },
+  "author": "Tenasa Tupitsyn",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
